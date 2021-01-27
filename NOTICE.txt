@@ -1,0 +1,10 @@
+Portable-TLauncher Notice
+
+Please note that this project is not 
+affiliated with TLauncher or Mojang or even 
+Microsoft. Please do not associate us with them. 
+This project is for me mainly so please only use this 
+if you really want to play Minecraft in a portable like 
+environment (I guess you can say this?). This doesn't 
+provide any special things just a more portable version 
+of TLauncher. Thank you for reading this.
